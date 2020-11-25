@@ -1,0 +1,15 @@
+/** Main Custom CSS **/
+@import 'variables';
+@import 'fonts';
+
+.slice {
+  min-height: 100vh !important;
+  img.sliced {
+    display: block;
+    width: 100%;
+    max-width: 100%;
+    height: auto;
+  }
+
+
+}

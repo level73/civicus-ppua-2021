@@ -48,14 +48,114 @@
   font-style: normal;
   font-display: swap;
 }
-.slice {
-  min-height: 100vh !important;
+h1, h2, h3, h4, h5, h6 {
+  font-family: "Novecento wide", sans-serif;
+  font-weight: bold;
+  text-transform: uppercase;
 }
+
+p {
+  font-family: "Calibri", sans-serif;
+}
+
 .slice img.sliced {
   display: block;
   width: 100%;
-  max-width: 100%;
+  min-width: 100%;
   height: auto;
+}
+
+*:focus {
+  outline: 0 !important;
+  border: 0px;
+}
+
+.content-page header {
+  margin-top: -104px;
+}
+
+.content-page p.intro {
+  font-size: 1.5em;
+  margin-bottom: 40px;
+  text-align: center;
+}
+
+footer {
+  padding: 40px 0px 25px;
+}
+
+/** Navbar **/
+.menu-toggler {
+  width: 64px;
+  height: auto;
+}
+
+.navbar-toggler {
+  z-index: 1020;
+}
+
+.navbar-collapse {
+  position: absolute;
+  top: 0px;
+  left: 0;
+  padding-left: 15px;
+  padding-right: 25px;
+  padding-bottom: 15px;
+  padding-top: 90px;
+  max-width: 75%;
+  z-index: 1010;
+  min-height: 100vh;
+  height: 100%;
+  background: white;
+  -webkit-box-shadow: 1px 0px 5px 0px rgba(50, 50, 50, 0.5);
+  -moz-box-shadow: 1px 0px 5px 0px rgba(50, 50, 50, 0.5);
+  box-shadow: 1px 0px 5px 0px rgba(50, 50, 50, 0.5);
+}
+
+.navbar-collapse.collapsing {
+  height: auto;
+  -webkit-transition: left 0.8s ease;
+  -o-transition: left 0.8s ease;
+  -moz-transition: left 0.8s ease;
+  transition: left 0.8s ease;
+  left: -100%;
+}
+
+.navbar-collapse.show {
+  left: 0;
+  -webkit-transition: left 0.8s ease-in;
+  -o-transition: left 0.8s ease-in;
+  -moz-transition: left 0.8s ease-in;
+  transition: left 0.8s ease-in;
+  /*position: fixed;*/
+}
+
+.nav-link {
+  font-family: "Novecento wide", sans-serif;
+  font-weight: bold;
+  text-transform: uppercase;
+  color: black;
+  font-size: 12px;
+  padding: 5px 0px 5px 0px;
+}
+
+.nav-item ul {
+  list-style: none;
+  padding-lefT: 10px;
+}
+
+@media (min-width: 576px) {
+  .nav-link {
+    font-size: 16px;
+    padding: 6px 0px 8px 0px;
+  }
+}
+@media (min-width: 992px) {
+  h1 {
+    font-size: 6em;
+    text-align: center;
+    margin: 30px auto 20px;
+  }
 }
 
 /*# sourceMappingURL=main.css.map */

@@ -101,6 +101,14 @@ p {
 .content-page figure {
   margin-top: 10px;
   margin-bottom: 15px;
+  max-width: 50%;
+  float: left;
+  display: inline-block;
+  margin-right: 15px;
+}
+.content-page figure img {
+  max-width: 100%;
+  text-align: left;
 }
 .content-page figure figcaption {
   font-size: 0.75em;
@@ -109,6 +117,15 @@ p {
   font-weight: normal;
   font-style: italic;
   text-align: center;
+}
+
+.content {
+  background-color: white;
+}
+
+.redcol {
+  background-color: #d53732;
+  height: 100%;
 }
 
 footer {

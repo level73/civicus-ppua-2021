@@ -31,11 +31,12 @@ p { font-family: 'Calibri', sans-serif; }
 .content-page p.intro { font-size: 1.5em; margin-bottom: 40px; text-align: center; }
 .content-page #page-navigation { margin-bottom: 25px; }
 .content-page .content-row { margin-top: 25px; margin-bottom: 50px; }
-.content-page figure { margin-top: 10px; margin-bottom: 15px;
+.content-page figure { margin-top: 10px; margin-bottom: 15px; max-width: 50%; float: left; display: inline-block; margin-right: 15px;
+  img { max-width: 100%; text-align: left; }
   figcaption {  font-size: 0.75em; text-transform: uppercase;  font-family: 'Novecento wide', sans-serif; font-weight: normal; font-style: italic; text-align: center; }
 }
-
-
+.content { background-color: white; }
+.redcol { background-color: $closed_red; height: 100%; }
 footer { padding: 40px 0px 25px;  }
 
 /** Navbar **/

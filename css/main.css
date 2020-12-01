@@ -56,11 +56,10 @@ h1, h2, h3, h4, h5, h6 {
 
 #main-header {
   background-repeat: no-repeat;
-  background-position: center center;
-  background-size: cover;
+  background-position: top center;
   background-attachment: fixed;
   padding: 0px;
-  min-height: 100vh;
+  min-height: 60vh;
 }
 
 p {
@@ -79,8 +78,8 @@ p {
   border: 0px;
 }
 
-.content-page header {
-  margin-top: -104px;
+.content-page header, #hp {
+  margin-top: -84px;
 }
 
 .content-page p.intro {

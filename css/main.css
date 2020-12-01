@@ -2,48 +2,48 @@
 /** Main Colors **/
 @font-face {
   font-family: "Calibri";
-  src: url("assets/fonts/Calibri-Bold.eot");
-  src: url("assets/fonts/Calibri-Bold.eot?#iefix") format("embedded-opentype"), url("assets/fonts/Calibri-Bold.woff2") format("woff2"), url("assets/fonts/Calibri-Bold.woff") format("woff");
+  src: url("../assets/fonts/Calibri-Bold.eot");
+  src: url("../assets/fonts/Calibri-Bold.eot?#iefix") format("embedded-opentype"), url("../assets/fonts/Calibri-Bold.woff2") format("woff2"), url("../assets/fonts/Calibri-Bold.woff") format("woff");
   font-weight: bold;
   font-style: normal;
   font-display: swap;
 }
 @font-face {
   font-family: "Calibri";
-  src: url("assets/fonts/Calibri-Italic.eot");
-  src: url("assets/fonts/Calibri-Italic.eot?#iefix") format("embedded-opentype"), url("assets/fonts/Calibri-Italic.woff2") format("woff2"), url("assets/fonts/Calibri-Italic.woff") format("woff");
+  src: url("../assets/fonts/Calibri-Italic.eot");
+  src: url("../assets/fonts/Calibri-Italic.eot?#iefix") format("embedded-opentype"), url("../assets/fonts/Calibri-Italic.woff2") format("woff2"), url("../assets/fonts/Calibri-Italic.woff") format("woff");
   font-weight: normal;
   font-style: italic;
   font-display: swap;
 }
 @font-face {
   font-family: "Novecento wide";
-  src: url("assets/fonts/Novecentowide-Bold.eot");
-  src: url("assets/fonts/Novecentowide-Bold.eot?#iefix") format("embedded-opentype"), url("assets/fonts/Novecentowide-Bold.woff2") format("woff2"), url("assets/fonts/Novecentowide-Bold.woff") format("woff");
+  src: url("../assets/fonts/Novecentowide-Bold.eot");
+  src: url("../assets/fonts/Novecentowide-Bold.eot?#iefix") format("embedded-opentype"), url("../assets/fonts/Novecentowide-Bold.woff2") format("woff2"), url("../assets/fonts/Novecentowide-Bold.woff") format("woff");
   font-weight: bold;
   font-style: normal;
   font-display: swap;
 }
 @font-face {
   font-family: "Calibri";
-  src: url("assets/fonts/Calibri.eot");
-  src: url("assets/fonts/Calibri.eot?#iefix") format("embedded-opentype"), url("assets/fonts/Calibri.woff2") format("woff2"), url("assets/fonts/Calibri.woff") format("woff");
+  src: url("../assets/fonts/Calibri.eot");
+  src: url("../assets/fonts/Calibri.eot?#iefix") format("embedded-opentype"), url("../assets/fonts/Calibri.woff2") format("woff2"), url("../assets/fonts/Calibri.woff") format("woff");
   font-weight: normal;
   font-style: normal;
   font-display: swap;
 }
 @font-face {
   font-family: "Novecento wide";
-  src: url("assets/fonts/Novecentowide-Normal.eot");
-  src: url("assets/fonts/Novecentowide-Normal.eot?#iefix") format("embedded-opentype"), url("assets/fonts/Novecentowide-Normal.woff2") format("woff2"), url("assets/fonts/Novecentowide-Normal.woff") format("woff");
+  src: url("../assets/fonts/Novecentowide-Normal.eot");
+  src: url("../assets/fonts/Novecentowide-Normal.eot?#iefix") format("embedded-opentype"), url("../assets/fonts/Novecentowide-Normal.woff2") format("woff2"), url("../assets/fonts/Novecentowide-Normal.woff") format("woff");
   font-weight: normal;
   font-style: normal;
   font-display: swap;
 }
 @font-face {
   font-family: "Novecento wide";
-  src: url("assets/fonts/Novecentowide-Light.eot");
-  src: url("assets/fonts/Novecentowide-Light.eot?#iefix") format("embedded-opentype"), url("assets/fonts/Novecentowide-Light.woff2") format("woff2"), url("assets/fonts/Novecentowide-Light.woff") format("woff");
+  src: url("../assets/fonts/Novecentowide-Light.eot");
+  src: url("../assets/fonts/Novecentowide-Light.eot?#iefix") format("embedded-opentype"), url("../assets/fonts/Novecentowide-Light.woff2") format("woff2"), url("../assets/fonts/Novecentowide-Light.woff") format("woff");
   font-weight: 300;
   font-style: normal;
   font-display: swap;
@@ -52,6 +52,15 @@ h1, h2, h3, h4, h5, h6 {
   font-family: "Novecento wide", sans-serif;
   font-weight: bold;
   text-transform: uppercase;
+}
+
+#main-header {
+  background-repeat: no-repeat;
+  background-position: center center;
+  background-size: cover;
+  background-attachment: fixed;
+  padding: 0px;
+  min-height: 100vh;
 }
 
 p {
@@ -80,6 +89,15 @@ p {
   text-align: center;
 }
 
+.content-page #page-navigation {
+  margin-bottom: 25px;
+}
+
+.content-page .content-row {
+  margin-top: 25px;
+  margin-bottom: 50px;
+}
+
 footer {
   padding: 40px 0px 25px;
 }
@@ -106,7 +124,7 @@ footer {
   z-index: 1010;
   min-height: 100vh;
   height: 100%;
-  background: white;
+  background: #242424;
   -webkit-box-shadow: 1px 0px 5px 0px rgba(50, 50, 50, 0.5);
   -moz-box-shadow: 1px 0px 5px 0px rgba(50, 50, 50, 0.5);
   box-shadow: 1px 0px 5px 0px rgba(50, 50, 50, 0.5);
@@ -123,25 +141,43 @@ footer {
 
 .navbar-collapse.show {
   left: 0;
-  -webkit-transition: left 0.8s ease-in;
-  -o-transition: left 0.8s ease-in;
-  -moz-transition: left 0.8s ease-in;
-  transition: left 0.8s ease-in;
+  -webkit-transition: left 0.2s ease-in;
+  -o-transition: left 0.2s ease-in;
+  -moz-transition: left 0.2s ease-in;
+  transition: left 0.2s ease-in;
   /*position: fixed;*/
 }
 
 .nav-link {
   font-family: "Novecento wide", sans-serif;
-  font-weight: bold;
+  font-weight: normal;
   text-transform: uppercase;
-  color: black;
+  color: white;
   font-size: 12px;
   padding: 5px 0px 5px 0px;
+  text-indent: 6px;
+}
+.nav-link.active {
+  color: #e46c16;
+  background: #333;
+}
+.nav-link:hover {
+  color: #ebad41;
 }
 
 .nav-item ul {
   list-style: none;
   padding-lefT: 10px;
+}
+
+.menu-map {
+  max-width: 250px !important;
+}
+
+.btn.btn-primary {
+  font-family: "Novecento wide", sans-serif;
+  font-weight: normal;
+  text-transform: uppercase;
 }
 
 @media (min-width: 576px) {

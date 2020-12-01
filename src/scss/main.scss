@@ -31,6 +31,10 @@ p { font-family: 'Calibri', sans-serif; }
 .content-page p.intro { font-size: 1.5em; margin-bottom: 40px; text-align: center; }
 .content-page #page-navigation { margin-bottom: 25px; }
 .content-page .content-row { margin-top: 25px; margin-bottom: 50px; }
+.content-page figure { margin-top: 10px; margin-bottom: 15px;
+  figcaption {  font-size: 0.75em; text-transform: uppercase;  font-family: 'Novecento wide', sans-serif; font-weight: normal; font-style: italic; text-align: center; }
+}
+
 
 footer { padding: 40px 0px 25px;  }
 

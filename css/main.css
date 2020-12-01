@@ -98,6 +98,19 @@ p {
   margin-bottom: 50px;
 }
 
+.content-page figure {
+  margin-top: 10px;
+  margin-bottom: 15px;
+}
+.content-page figure figcaption {
+  font-size: 0.75em;
+  text-transform: uppercase;
+  font-family: "Novecento wide", sans-serif;
+  font-weight: normal;
+  font-style: italic;
+  text-align: center;
+}
+
 footer {
   padding: 40px 0px 25px;
 }

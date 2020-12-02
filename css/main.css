@@ -62,6 +62,12 @@ main.container {
   background: white;
   padding-top: 30px;
 }
+main.container a {
+  color: #e46c16;
+}
+main.container a.btn {
+  color: white;
+}
 
 .jumbotron {
   margin-bottom: 0px;

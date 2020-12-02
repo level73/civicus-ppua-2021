@@ -8,7 +8,10 @@ h1, h2, h3, h4, h5, h6 {
   text-transform: uppercase;
 }
 .content-page .container-fluid { background: $backblack;  }
-main.container { background: white; padding-top: 30px; }
+main.container { background: white; padding-top: 30px;
+  a {color: $repressed_orange; }
+  a.btn { color: white; }
+}
 .jumbotron { margin-bottom: 0px; }
 #main-header {
   background-repeat:no-repeat;

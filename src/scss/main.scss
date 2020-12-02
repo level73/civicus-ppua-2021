@@ -1,7 +1,7 @@
 /** Main Custom CSS **/
 @import 'variables';
 @import 'fonts';
-
+html, body { height: 100%; }
 h1, h2, h3, h4, h5, h6 {
   font-family: 'Novecento wide', sans-serif;
   font-weight: bold;
@@ -9,12 +9,13 @@ h1, h2, h3, h4, h5, h6 {
 }
 #main-header {
   background-repeat:no-repeat;
-  background-position: top center;
-  //background-size:;
+  background-position-x: center;
+  background-position-y: -20vh;
+  background-size: cover;
   background-attachment: fixed;
   background-color: $closed_red;
   padding: 0px;
-  min-height: 60vh;
+  min-height: 80vh;
 }
 p { font-family: 'Calibri', sans-serif; }
 .slice {
@@ -28,6 +29,7 @@ p { font-family: 'Calibri', sans-serif; }
 }
 *:focus { outline: 0 !important; border: 0px; }
 .content-page header, #hp { margin-top: -84px; }
+
 .content-page p.intro { font-size: 1.5em; margin-bottom: 40px; text-align: center; }
 .content-page #page-navigation { margin-bottom: 25px; }
 .content-page .content-row { margin-top: 25px; margin-bottom: 50px; }

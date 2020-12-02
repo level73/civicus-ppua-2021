@@ -48,6 +48,10 @@
   font-style: normal;
   font-display: swap;
 }
+html, body {
+  height: 100%;
+}
+
 h1, h2, h3, h4, h5, h6 {
   font-family: "Novecento wide", sans-serif;
   font-weight: bold;
@@ -56,11 +60,13 @@ h1, h2, h3, h4, h5, h6 {
 
 #main-header {
   background-repeat: no-repeat;
-  background-position: top center;
+  background-position-x: center;
+  background-position-y: -20vh;
+  background-size: cover;
   background-attachment: fixed;
   background-color: #d53732;
   padding: 0px;
-  min-height: 60vh;
+  min-height: 80vh;
 }
 
 p {

@@ -69,6 +69,10 @@ h1, h2, h3, h4, h5, h6 {
   height: 25vh;
 }
 
+h1 {
+  text-align: center;
+}
+
 p {
   font-family: "Calibri", sans-serif;
 }

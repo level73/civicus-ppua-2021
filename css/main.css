@@ -48,14 +48,23 @@
   font-style: normal;
   font-display: swap;
 }
-html, body {
-  height: 100%;
-}
-
 h1, h2, h3, h4, h5, h6 {
   font-family: "Novecento wide", sans-serif;
   font-weight: bold;
   text-transform: uppercase;
+}
+
+.content-page .container-fluid {
+  background: #242424;
+}
+
+main.container {
+  background: white;
+  padding-top: 30px;
+}
+
+.jumbotron {
+  margin-bottom: 0px;
 }
 
 #main-header {
@@ -75,6 +84,7 @@ h1 {
 
 p {
   font-family: "Calibri", sans-serif;
+  font-size: 1.2em;
 }
 
 .slice img.sliced {
@@ -131,11 +141,6 @@ p {
 
 .content {
   background-color: white;
-}
-
-.redcol {
-  background-color: #d53732;
-  height: 100%;
 }
 
 footer {

@@ -1,12 +1,15 @@
 /** Main Custom CSS **/
 @import 'variables';
 @import 'fonts';
-html, body { height: 100%; }
+
 h1, h2, h3, h4, h5, h6 {
   font-family: 'Novecento wide', sans-serif;
   font-weight: bold;
   text-transform: uppercase;
 }
+.content-page .container-fluid { background: $backblack;  }
+main.container { background: white; padding-top: 30px; }
+.jumbotron { margin-bottom: 0px; }
 #main-header {
   background-repeat:no-repeat;
   background-position-x: center;
@@ -18,7 +21,7 @@ h1, h2, h3, h4, h5, h6 {
   height: 25vh;
 }
 h1 { text-align: center; }
-p { font-family: 'Calibri', sans-serif; }
+p { font-family: 'Calibri', sans-serif; font-size: 1.2em; }
 .slice {
   // min-height: 100vh !important;
   img.sliced {
@@ -39,7 +42,7 @@ p { font-family: 'Calibri', sans-serif; }
   figcaption {  font-size: 0.75em; text-transform: uppercase;  font-family: 'Novecento wide', sans-serif; font-weight: normal; font-style: italic; text-align: center; }
 }
 .content { background-color: white; }
-.redcol { background-color: $closed_red; height: 100%; }
+
 footer { padding: 40px 0px 25px;  }
 
 /** Navbar **/

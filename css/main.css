@@ -54,8 +54,20 @@ h1, h2, h3, h4, h5, h6 {
   text-transform: uppercase;
 }
 
-.content-page .container-fluid {
-  background: #242424;
+.content-page .container-fluid.bg-red {
+  background-color: #e72932;
+}
+.content-page .container-fluid.bg-orange {
+  background-color: #e6761e;
+}
+.content-page .container-fluid.bg-yellow {
+  background-color: #f7b420;
+}
+.content-page .container-fluid.bg-lightgreen {
+  background-color: #b5b74b;
+}
+.content-page .container-fluid.bg-opengreen {
+  background-color: #2ca867;
 }
 
 main.container {

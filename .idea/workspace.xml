@@ -11,8 +11,16 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="6f6012d7-95df-4f4a-ba03-af888656c43f" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/bright-spots.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/downward-spiral.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/recommendations.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/top-violations.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/uneven-crisis.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/about.html" beforeDir="false" afterPath="$PROJECT_DIR$/about.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/africa.html" beforeDir="false" afterPath="$PROJECT_DIR$/africa.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/methodology.html" beforeDir="false" afterPath="$PROJECT_DIR$/methodology.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -98,7 +106,7 @@
       <workItem from="1606487189400" duration="12953000" />
       <workItem from="1606726720571" duration="1274000" />
       <workItem from="1606728174027" duration="20819000" />
-      <workItem from="1606897420054" duration="7351000" />
+      <workItem from="1606897420054" duration="10275000" />
     </task>
     <task id="LOCAL-00001" summary="Main scaffolding and basic index page">
       <created>1606313437717</created>
@@ -275,7 +283,14 @@
       <option name="project" value="LOCAL" />
       <updated>1606923553504</updated>
     </task>
-    <option name="localTasksCounter" value="26" />
+    <task id="LOCAL-00026" summary="about page and other tweaks">
+      <created>1606923582507</created>
+      <option name="number" value="00026" />
+      <option name="presentableId" value="LOCAL-00026" />
+      <option name="project" value="LOCAL" />
+      <updated>1606923582507</updated>
+    </task>
+    <option name="localTasksCounter" value="27" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -329,13 +344,17 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state width="1877" height="282" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1606921019533" />
-    <state x="552" y="253" key="Vcs.Push.Dialog.v2" timestamp="1606923554862">
+    <state x="552" y="253" key="Vcs.Push.Dialog.v2" timestamp="1606923583913">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="552" y="253" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1606923554862" />
+    <state x="552" y="253" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1606923583913" />
     <state x="777" y="434" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1606799898415">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="777" y="434" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1920.1040@0.0.1920.1040" timestamp="1606799898415" />
+    <state x="667" y="76" width="585" height="888" key="find.popup" timestamp="1606925767033">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="667" y="76" width="585" height="888" key="find.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1606925767033" />
   </component>
 </project>

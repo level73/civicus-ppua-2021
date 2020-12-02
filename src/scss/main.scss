@@ -19,7 +19,21 @@ main.container { background: white; padding-top: 30px;
   a.btn { color: white; }
 }
 .jumbotron { margin-bottom: 0px; }
+
 #main-header {
+  background-repeat:no-repeat;
+  background-position-x: center;
+  background-size: contain;
+  background-attachment: fixed;
+  background-color: white;
+  height: 0;
+  padding-top: 31%;
+}
+
+/*
+#main-header {
+
+
   background-repeat:no-repeat;
   background-position-x: center;
   background-position-y: 0vh;
@@ -29,6 +43,8 @@ main.container { background: white; padding-top: 30px;
   padding: 0px;
   height: 25vh;
 }
+*/
+
 h1 { text-align: center; }
 p { font-family: 'Calibri', sans-serif; font-size: 1.2em; }
 .slice {
@@ -41,7 +57,9 @@ p { font-family: 'Calibri', sans-serif; font-size: 1.2em; }
   }
 }
 *:focus { outline: 0 !important; border: 0px; }
-.content-page header, #hp { margin-top: -84px; }
+.content-page header, #hp {
+  margin-top: -84px;
+}
 
 .content-page p.intro { font-size: 1.5em; margin-bottom: 40px; text-align: center; }
 .content-page #page-navigation { margin-bottom: 25px; }
@@ -129,12 +147,12 @@ footer { padding: 40px 0px 25px;  }
   #main-header {
     background-repeat:no-repeat;
     background-position-x: center;
-    background-position-y: -20vh;
-    background-size: cover;
+    background-size: contain;
     background-attachment: fixed;
     background-color: white;
-    padding: 0px;
-    min-height: 80vh;
+    height: 0;
+    padding-top: calc(39.87% - 84px);
+
   }
 }
 @media (min-width: 992px) {

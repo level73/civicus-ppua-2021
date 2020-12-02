@@ -88,6 +88,19 @@ main.container a.btn {
 #main-header {
   background-repeat: no-repeat;
   background-position-x: center;
+  background-size: contain;
+  background-attachment: fixed;
+  background-color: white;
+  height: 0;
+  padding-top: 31%;
+}
+
+/*
+#main-header {
+
+
+  background-repeat:no-repeat;
+  background-position-x: center;
   background-position-y: 0vh;
   background-size: contain;
   background-attachment: fixed;
@@ -95,7 +108,7 @@ main.container a.btn {
   padding: 0px;
   height: 25vh;
 }
-
+*/
 h1 {
   text-align: center;
 }
@@ -252,12 +265,11 @@ footer {
   #main-header {
     background-repeat: no-repeat;
     background-position-x: center;
-    background-position-y: -20vh;
-    background-size: cover;
+    background-size: contain;
     background-attachment: fixed;
     background-color: white;
-    padding: 0px;
-    min-height: 80vh;
+    height: 0;
+    padding-top: calc(39.87% - 84px);
   }
 }
 @media (min-width: 992px) {

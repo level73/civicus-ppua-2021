@@ -10,12 +10,12 @@ h1, h2, h3, h4, h5, h6 {
 #main-header {
   background-repeat:no-repeat;
   background-position-x: center;
-  background-position-y: -20vh;
-  background-size: cover;
+  background-position-y: 0vh;
+  background-size: contain;
   background-attachment: fixed;
-  background-color: $closed_red;
+  background-color: white;
   padding: 0px;
-  min-height: 80vh;
+  height: 25vh;
 }
 p { font-family: 'Calibri', sans-serif; }
 .slice {
@@ -115,6 +115,16 @@ footer { padding: 40px 0px 25px;  }
     font-size: 16px;
     padding: 6px 0px 8px 0px;
 
+  }
+  #main-header {
+    background-repeat:no-repeat;
+    background-position-x: center;
+    background-position-y: -20vh;
+    background-size: cover;
+    background-attachment: fixed;
+    background-color: white;
+    padding: 0px;
+    min-height: 80vh;
   }
 }
 @media (min-width: 992px) {

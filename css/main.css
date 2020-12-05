@@ -127,81 +127,92 @@ p {
   min-width: 100%;
   height: auto;
 }
-.slice .rollover {
+.slice .map-link {
+  display: block;
+  left: 15%;
+  width: 70%;
+  height: 60%;
+}
+.slice .rollover, .slice .map-link {
   position: absolute;
   z-index: 1000;
 }
-.slice .rollover img {
+.slice .rollover img, .slice .map-link img {
   width: 100%;
 }
-.slice .rollover .roller-down {
+.slice .rollover .roller-down, .slice .map-link .roller-down {
   display: none;
   visibility: hidden;
 }
-.slice .rollover:hover .roller-down {
+.slice .rollover:hover .roller-down, .slice .map-link:hover .roller-down {
   display: inline-block;
   visibility: visible;
 }
-.slice .rollover:hover .roller-up {
+.slice .rollover:hover .roller-up, .slice .map-link:hover .roller-up {
   display: none;
   visibility: hidden;
 }
-.slice .rollover#ro-rating-changes {
+.slice .rollover#ro-about, .slice .map-link#ro-about {
+  left: 0.1%;
+  top: 1%;
+  width: 16.5625%;
+}
+.slice .rollover#ro-rating-changes, .slice .map-link#ro-rating-changes {
   left: 12.77%;
   bottom: 8.035%;
   width: 28.125%;
 }
-.slice .rollover#ro-uneven-crisis {
+.slice .rollover#ro-uneven-crisis, .slice .map-link#ro-uneven-crisis {
   left: 47.5%;
   bottom: 15.75%;
   width: 30.06%;
 }
-.slice .rollover#ro-methodology {
+.slice .rollover#ro-methodology, .slice .map-link#ro-methodology {
   left: 15.4%;
   top: 3.75%;
   width: 28.125%;
 }
-.slice .rollover#ro-downward-spiral {
+.slice .rollover#ro-downward-spiral, .slice .map-link#ro-downward-spiral {
   left: 41.9%;
   bottom: 35.2%;
   width: 25.94%;
 }
-.slice .rollover#ro-bright-spots {
+.slice .rollover#ro-bright-spots, .slice .map-link#ro-bright-spots {
   left: 71.1%;
   bottom: 49.75%;
   width: 24.69%;
 }
-.slice .rollover#ro-africa {
+.slice .rollover#ro-africa, .slice .map-link#ro-africa {
   left: 0%;
   bottom: 65.5%;
   width: 36.125%;
 }
-.slice .rollover#ro-americas {
+.slice .rollover#ro-americas, .slice .map-link#ro-americas {
   right: 0;
   bottom: 67.75%;
   width: 32.375%;
 }
-.slice .rollover#ro-asia-pacific {
+.slice .rollover#ro-asia-pacific, .slice .map-link#ro-asia-pacific {
   right: 0;
   bottom: 3%;
   width: 22.75%;
 }
-.slice .rollover#ro-top-global {
+.slice .rollover#ro-top-global, .slice .map-link#ro-top-global {
   left: 26.75%;
   bottom: 56.25%;
   width: 48.25%;
 }
-.slice .rollover#ro-eu-ca {
+.slice .rollover#ro-eu-ca, .slice .map-link#ro-eu-ca {
   right: 0;
   bottom: 25%;
   width: 34.9375%;
 }
-.slice .rollover#ro-mena {
+.slice .rollover#ro-mena, .slice .map-link#ro-mena {
   left: 0;
   bottom: 13.45%;
   width: 37.25%;
 }
-.slice .rollover#ro-recommendations {
+.slice .rollover#ro-recommendations, .slice .map-link#ro-recommendations {
   left: 30%;
   bottom: 16%;
   width: 38.875%;

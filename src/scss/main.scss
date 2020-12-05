@@ -55,7 +55,13 @@ p { font-family: 'Calibri', sans-serif; font-size: 1.2em; }
     min-width: 100%;
     height: auto;
   }
-  .rollover {
+  .map-link {
+    display: block;
+    left: 15%;
+    width: 70%;
+    height: 60%;
+  }
+  .rollover, .map-link {
 
     position: absolute;
     z-index: 1000;
@@ -74,6 +80,12 @@ p { font-family: 'Calibri', sans-serif; font-size: 1.2em; }
     &:hover {
       .roller-down { display: inline-block; visibility: visible; }
       .roller-up { display: none; visibility: hidden;  }
+    }
+
+    &#ro-about {
+      left: 0.1%;
+      top: 1%;
+      width: 16.5625%;
     }
 
     &#ro-rating-changes {

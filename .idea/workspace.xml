@@ -11,19 +11,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="6f6012d7-95df-4f4a-ba03-af888656c43f" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/africa.html" beforeDir="false" afterPath="$PROJECT_DIR$/africa.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/americas.html" beforeDir="false" afterPath="$PROJECT_DIR$/americas.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/asia-pacific.html" beforeDir="false" afterPath="$PROJECT_DIR$/asia-pacific.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/css/main.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/main.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/css/main.css.map" beforeDir="false" afterPath="$PROJECT_DIR$/css/main.css.map" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/downward-spiral.html" beforeDir="false" afterPath="$PROJECT_DIR$/downward-spiral.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/europe-central-asia.html" beforeDir="false" afterPath="$PROJECT_DIR$/europe-central-asia.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/methodology.html" beforeDir="false" afterPath="$PROJECT_DIR$/methodology.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/middle-east-north-africa.html" beforeDir="false" afterPath="$PROJECT_DIR$/middle-east-north-africa.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/recommendations.html" beforeDir="false" afterPath="$PROJECT_DIR$/recommendations.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/scss/main.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/scss/main.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/uneven-crisis.html" beforeDir="false" afterPath="$PROJECT_DIR$/uneven-crisis.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -112,7 +100,7 @@
       <workItem from="1606728174027" duration="20819000" />
       <workItem from="1606897420054" duration="14760000" />
       <workItem from="1606975640528" duration="7652000" />
-      <workItem from="1607091857735" duration="19607000" />
+      <workItem from="1607091857735" duration="19837000" />
     </task>
     <task id="LOCAL-00001" summary="Main scaffolding and basic index page">
       <created>1606313437717</created>
@@ -401,7 +389,14 @@
       <option name="project" value="LOCAL" />
       <updated>1607193549188</updated>
     </task>
-    <option name="localTasksCounter" value="42" />
+    <task id="LOCAL-00042" summary="All tweaks and changes flagged on Dec 4th">
+      <created>1607203789414</created>
+      <option name="number" value="00042" />
+      <option name="presentableId" value="LOCAL-00042" />
+      <option name="project" value="LOCAL" />
+      <updated>1607203789414</updated>
+    </task>
+    <option name="localTasksCounter" value="43" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -444,7 +439,8 @@
     <MESSAGE value="map page" />
     <MESSAGE value="added entry to menu for rating changes" />
     <MESSAGE value="link for prev reports" />
-    <option name="LAST_COMMIT_MESSAGE" value="link for prev reports" />
+    <MESSAGE value="All tweaks and changes flagged on Dec 4th" />
+    <option name="LAST_COMMIT_MESSAGE" value="All tweaks and changes flagged on Dec 4th" />
   </component>
   <component name="WindowStateProjectService">
     <state x="740" y="275" key="FileChooserDialogImpl" timestamp="1606680375265">
@@ -467,10 +463,10 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state width="1877" height="282" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1607190438215" />
-    <state x="552" y="253" key="Vcs.Push.Dialog.v2" timestamp="1607193551151">
+    <state x="552" y="253" key="Vcs.Push.Dialog.v2" timestamp="1607203791113">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="552" y="253" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1607193551151" />
+    <state x="552" y="253" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1607203791113" />
     <state x="777" y="434" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1606799898415">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>

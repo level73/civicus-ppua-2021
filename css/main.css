@@ -48,6 +48,10 @@
   font-style: normal;
   font-display: swap;
 }
+body#homepage {
+  display: none;
+}
+
 h1, h2, h3, h4, h5, h6 {
   font-family: "Novecento wide", sans-serif;
   font-weight: bold;

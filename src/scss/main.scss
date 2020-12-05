@@ -15,7 +15,7 @@ h1, h2, h3, h4, h5, h6 {
   &.bg-opengreen { background-color: $bg_Opengreen; }
 }
 main.container { background: white; padding-top: 30px;
-  a {color: $repressed_orange; }
+  a, .btn-link {color: $repressed_orange; }
   a.btn { color: white; }
 }
 .jumbotron { margin-bottom: 0px; }
@@ -28,6 +28,9 @@ main.container { background: white; padding-top: 30px;
   background-color: white;
   height: 0;
   padding-top: 31%;
+}
+#recommendations ul li {
+  padding: 8px 0px;
 }
 
 /*

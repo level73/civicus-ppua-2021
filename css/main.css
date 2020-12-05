@@ -118,11 +118,88 @@ p {
   font-size: 1.2em;
 }
 
+.slice {
+  position: relative;
+}
 .slice img.sliced {
   display: block;
   width: 100%;
   min-width: 100%;
   height: auto;
+}
+.slice .rollover {
+  position: absolute;
+  z-index: 9999;
+}
+.slice .rollover img {
+  width: 100%;
+}
+.slice .rollover .roller-down {
+  display: none;
+  visibility: hidden;
+}
+.slice .rollover:hover .roller-down {
+  display: inline-block;
+  visibility: visible;
+}
+.slice .rollover:hover .roller-up {
+  display: none;
+  visibility: hidden;
+}
+.slice .rollover#ro-rating-changes {
+  left: 12.77%;
+  bottom: 8.035%;
+  width: 28.125%;
+}
+.slice .rollover#ro-uneven-crisis {
+  left: 47.5%;
+  bottom: 15.75%;
+  width: 30.06%;
+}
+.slice .rollover#ro-methodology {
+  left: 15.4%;
+  top: 3.75%;
+  width: 28.125%;
+}
+.slice .rollover#ro-downward-spiral {
+  left: 41.9%;
+  bottom: 35.2%;
+  width: 25.94%;
+}
+.slice .rollover#ro-bright-spots {
+  left: 71.1%;
+  bottom: 49.75%;
+  width: 24.69%;
+}
+.slice .rollover#ro-africa {
+  left: 0%;
+  bottom: 65.5%;
+  width: 36.125%;
+}
+.slice .rollover#ro-americas {
+  right: 0;
+  bottom: 67.75%;
+  width: 32.375%;
+}
+.slice .rollover#ro-asia-pacific {
+  right: 0;
+  bottom: 3%;
+  width: 22.75%;
+}
+.slice .rollover#ro-top-global {
+  left: 26.75%;
+  bottom: 56.25%;
+  width: 48.25%;
+}
+.slice .rollover#ro-eu-ca {
+  right: 0;
+  bottom: 25%;
+  width: 34.9375%;
+}
+.slice .rollover#ro-mena {
+  left: 0;
+  bottom: 13.45%;
+  width: 37.25%;
 }
 
 *:focus {
@@ -131,7 +208,7 @@ p {
 }
 
 .content-page header, #hp {
-  margin-top: -84px;
+  margin-top: -113px;
 }
 
 .content-page p.intro {
@@ -180,7 +257,7 @@ footer {
 
 /** Navbar **/
 .menu-toggler {
-  width: 64px;
+  width: 96px;
   height: auto;
 }
 
@@ -269,7 +346,7 @@ footer {
     background-attachment: fixed;
     background-color: white;
     height: 0;
-    padding-top: calc(39.87% - 84px);
+    padding-top: calc(39.87% - 113px);
   }
 }
 @media (min-width: 992px) {

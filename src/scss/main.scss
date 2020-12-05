@@ -48,17 +48,104 @@ main.container { background: white; padding-top: 30px;
 h1 { text-align: center; }
 p { font-family: 'Calibri', sans-serif; font-size: 1.2em; }
 .slice {
-  // min-height: 100vh !important;
+  position: relative;
   img.sliced {
     display: block;
     width: 100%;
     min-width: 100%;
     height: auto;
   }
+  .rollover {
+
+    position: absolute;
+    z-index: 9999;
+    //overflow: hidden;
+
+    img {
+      width: 100%;
+    }
+
+    // All Rollovers
+    .roller-down {
+      display: none;
+      visibility: hidden;
+
+    }
+    &:hover {
+      .roller-down { display: inline-block; visibility: visible; }
+      .roller-up { display: none; visibility: hidden;  }
+    }
+
+    &#ro-rating-changes {
+      left: 12.77%;
+      bottom: 8.035%;
+      width: 28.125%;
+    }
+
+    &#ro-uneven-crisis {
+      left: 47.5%;
+      bottom: 15.75%;
+      width: 30.06%;
+    }
+
+    &#ro-methodology {
+      left:   15.4%;
+      top:    3.75%;
+      width:  28.125%;
+    }
+
+    &#ro-downward-spiral {
+      left:   41.9%;
+      bottom: 35.2%;
+      width:  25.94%;
+    }
+
+    &#ro-bright-spots {
+      left: 71.1%;
+      bottom: 49.75%;
+      width: 24.69%;
+    }
+
+    &#ro-africa {
+      left: 0%;
+      bottom: 65.5%;
+      width: 36.125%;
+    }
+    &#ro-americas {
+      right: 0;
+      bottom: 67.75%;
+      width: 32.375%;
+    }
+    &#ro-asia-pacific {
+      right: 0;
+      bottom: 3%;
+      width: 22.75%;
+    }
+
+
+    &#ro-top-global {
+      left: 26.75%;
+      bottom: 56.25%;
+      width: 48.25%;
+    }
+    &#ro-eu-ca {
+      right: 0;
+      bottom: 25%;
+      width: 34.9375%;
+    }
+    &#ro-mena {
+      left: 0;
+      bottom: 13.45%;
+      width: 37.25%;
+    }
+
+
+
+  }
 }
 *:focus { outline: 0 !important; border: 0px; }
 .content-page header, #hp {
-  margin-top: -84px;
+  margin-top: -113px;
 }
 
 .content-page p.intro { font-size: 1.5em; margin-bottom: 40px; text-align: center; }
@@ -74,7 +161,7 @@ footer { padding: 40px 0px 25px;  }
 
 /** Navbar **/
 .menu-toggler {
-  width: 64px; height: auto;
+  width: 96px; height: auto;
 }
 
   .navbar-toggler { z-index: 1020; }
@@ -151,7 +238,7 @@ footer { padding: 40px 0px 25px;  }
     background-attachment: fixed;
     background-color: white;
     height: 0;
-    padding-top: calc(39.87% - 84px);
+    padding-top: calc(39.87% - 113px);
 
   }
 }

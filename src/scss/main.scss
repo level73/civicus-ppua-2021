@@ -58,7 +58,7 @@ p { font-family: 'Calibri', sans-serif; font-size: 1.2em; }
   .rollover {
 
     position: absolute;
-    z-index: 9999;
+    z-index: 1000;
     //overflow: hidden;
 
     img {
@@ -139,7 +139,11 @@ p { font-family: 'Calibri', sans-serif; font-size: 1.2em; }
       width: 37.25%;
     }
 
-
+    &#ro-recommendations {
+      left: 30%;
+      bottom: 16%;
+      width: 38.875%;
+    }
 
   }
 }

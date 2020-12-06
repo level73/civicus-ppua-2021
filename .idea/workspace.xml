@@ -12,7 +12,7 @@
   <component name="ChangeListManager">
     <list default="true" id="6f6012d7-95df-4f4a-ba03-af888656c43f" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/africa.html" beforeDir="false" afterPath="$PROJECT_DIR$/africa.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/americas.html" beforeDir="false" afterPath="$PROJECT_DIR$/americas.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -102,21 +102,7 @@
       <workItem from="1606897420054" duration="14760000" />
       <workItem from="1606975640528" duration="7652000" />
       <workItem from="1607091857735" duration="22510000" />
-      <workItem from="1607268662205" duration="5026000" />
-    </task>
-    <task id="LOCAL-00002" summary="HTML">
-      <created>1606313819026</created>
-      <option name="number" value="00002" />
-      <option name="presentableId" value="LOCAL-00002" />
-      <option name="project" value="LOCAL" />
-      <updated>1606313819026</updated>
-    </task>
-    <task id="LOCAL-00003" summary="HTML">
-      <created>1606313916703</created>
-      <option name="number" value="00003" />
-      <option name="presentableId" value="LOCAL-00003" />
-      <option name="project" value="LOCAL" />
-      <updated>1606313916703</updated>
+      <workItem from="1607268662205" duration="5802000" />
     </task>
     <task id="LOCAL-00004" summary="Methodology Page as blueprint">
       <created>1606675852780</created>
@@ -447,7 +433,21 @@
       <option name="project" value="LOCAL" />
       <updated>1607274277606</updated>
     </task>
-    <option name="localTasksCounter" value="51" />
+    <task id="LOCAL-00051" summary="Links in Africa page">
+      <created>1607274786517</created>
+      <option name="number" value="00051" />
+      <option name="presentableId" value="LOCAL-00051" />
+      <option name="project" value="LOCAL" />
+      <updated>1607274786518</updated>
+    </task>
+    <task id="LOCAL-00052" summary="Links in Africa page">
+      <created>1607274935651</created>
+      <option name="number" value="00052" />
+      <option name="presentableId" value="LOCAL-00052" />
+      <option name="project" value="LOCAL" />
+      <updated>1607274935651</updated>
+    </task>
+    <option name="localTasksCounter" value="53" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -466,7 +466,6 @@
     <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Backdrop images for header sections" />
     <MESSAGE value="images in inner page" />
     <MESSAGE value="map in africa" />
     <MESSAGE value="changes to main internal layout" />
@@ -491,7 +490,8 @@
     <MESSAGE value="Links in all pages except for regional analysis" />
     <MESSAGE value="tweaks" />
     <MESSAGE value="Bright Spots &amp; Pot Banger" />
-    <option name="LAST_COMMIT_MESSAGE" value="Bright Spots &amp; Pot Banger" />
+    <MESSAGE value="Links in Africa page" />
+    <option name="LAST_COMMIT_MESSAGE" value="Links in Africa page" />
   </component>
   <component name="WindowStateProjectService">
     <state x="740" y="275" key="FileChooserDialogImpl" timestamp="1606680375265">
@@ -514,10 +514,10 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state width="1877" height="282" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1607274414077" />
-    <state x="552" y="253" key="Vcs.Push.Dialog.v2" timestamp="1607274279057">
+    <state x="552" y="253" key="Vcs.Push.Dialog.v2" timestamp="1607274965009">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="552" y="253" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1607274279057" />
+    <state x="552" y="253" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1607274965009" />
     <state x="777" y="434" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1606799898415">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>

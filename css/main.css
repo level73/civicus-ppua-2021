@@ -74,6 +74,31 @@ h1, h2, h3, h4, h5, h6 {
   background-color: #2ca867;
 }
 
+.t-red {
+  color: #e72932;
+  font-weight: bold;
+}
+
+.t-orange {
+  color: #e6761e;
+  font-weight: bold;
+}
+
+.t-yellow {
+  color: #f7b420;
+  font-weight: bold;
+}
+
+.t-lightgreen {
+  color: #b5b74b;
+  font-weight: bold;
+}
+
+.t-opengreen {
+  color: #2ca867;
+  font-weight: bold;
+}
+
 main.container {
   background: white;
   padding-top: 30px;
@@ -99,24 +124,11 @@ main.container a.btn {
   padding-top: 31%;
 }
 
-#recommendations ul li {
+#recommendations ul li, #rating-changes ul li {
   padding: 8px 0px;
+  font-size: 1.2em;
 }
 
-/*
-#main-header {
-
-
-  background-repeat:no-repeat;
-  background-position-x: center;
-  background-position-y: 0vh;
-  background-size: contain;
-  background-attachment: fixed;
-  background-color: white;
-  padding: 0px;
-  height: 25vh;
-}
-*/
 h1 {
   text-align: center;
 }

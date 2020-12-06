@@ -14,6 +14,13 @@ h1, h2, h3, h4, h5, h6 {
   &.bg-lightgreen { background-color: $bg_Lightgreen; }
   &.bg-opengreen { background-color: $bg_Opengreen; }
 }
+.t-red { color: $bg_Red; font-weight: bold;}
+.t-orange { color: $bg_Orange; font-weight: bold;}
+.t-yellow { color: $bg_Yellow;font-weight: bold; }
+.t-lightgreen { color: $bg_Lightgreen;font-weight: bold; }
+.t-opengreen { color: $bg_Opengreen; font-weight: bold;}
+
+
 main.container { background: white; padding-top: 30px;
   a, .btn-link {color: $repressed_orange; }
   a.btn { color: white; }
@@ -29,24 +36,10 @@ main.container { background: white; padding-top: 30px;
   height: 0;
   padding-top: 31%;
 }
-#recommendations ul li {
+#recommendations ul li, #rating-changes ul li {
   padding: 8px 0px;
+  font-size: 1.2em;
 }
-
-/*
-#main-header {
-
-
-  background-repeat:no-repeat;
-  background-position-x: center;
-  background-position-y: 0vh;
-  background-size: contain;
-  background-attachment: fixed;
-  background-color: white;
-  padding: 0px;
-  height: 25vh;
-}
-*/
 
 h1 { text-align: center; }
 p { font-family: 'Calibri', sans-serif; font-size: 1.2em; }

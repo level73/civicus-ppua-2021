@@ -11,10 +11,6 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="6f6012d7-95df-4f4a-ba03-af888656c43f" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bright-spots.html" beforeDir="false" afterPath="$PROJECT_DIR$/bright-spots.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/downward-spiral.html" beforeDir="false" afterPath="$PROJECT_DIR$/downward-spiral.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/methodology.html" beforeDir="false" afterPath="$PROJECT_DIR$/methodology.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/uneven-crisis.html" beforeDir="false" afterPath="$PROJECT_DIR$/uneven-crisis.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -105,7 +101,7 @@
       <workItem from="1606897420054" duration="14760000" />
       <workItem from="1606975640528" duration="7652000" />
       <workItem from="1607091857735" duration="22510000" />
-      <workItem from="1607268662205" duration="1223000" />
+      <workItem from="1607268662205" duration="1659000" />
     </task>
     <task id="LOCAL-00001" summary="Main scaffolding and basic index page">
       <created>1606313437717</created>
@@ -422,7 +418,14 @@
       <option name="project" value="LOCAL" />
       <updated>1607243751399</updated>
     </task>
-    <option name="localTasksCounter" value="46" />
+    <task id="LOCAL-00046" summary="Links in all pages except for regional analysis">
+      <created>1607270233437</created>
+      <option name="number" value="00046" />
+      <option name="presentableId" value="LOCAL-00046" />
+      <option name="project" value="LOCAL" />
+      <updated>1607270233437</updated>
+    </task>
+    <option name="localTasksCounter" value="47" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -441,7 +444,6 @@
     <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Methodology Page as blueprint" />
     <MESSAGE value="Font support" />
     <MESSAGE value="Africa page, Backdrop and JS, tons of CSS" />
     <MESSAGE value="Backdrop images for header sections" />
@@ -466,7 +468,8 @@
     <MESSAGE value="All tweaks and changes flagged on Dec 4th" />
     <MESSAGE value="links in methodology" />
     <MESSAGE value="Rating changes page" />
-    <option name="LAST_COMMIT_MESSAGE" value="Rating changes page" />
+    <MESSAGE value="Links in all pages except for regional analysis" />
+    <option name="LAST_COMMIT_MESSAGE" value="Links in all pages except for regional analysis" />
   </component>
   <component name="WindowStateProjectService">
     <state x="740" y="275" key="FileChooserDialogImpl" timestamp="1606680375265">
@@ -489,10 +492,10 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state width="1877" height="282" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1607244104335" />
-    <state x="552" y="253" key="Vcs.Push.Dialog.v2" timestamp="1607243752662">
+    <state x="552" y="253" key="Vcs.Push.Dialog.v2" timestamp="1607270248609">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="552" y="253" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1607243752662" />
+    <state x="552" y="253" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1607270248609" />
     <state x="777" y="434" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1606799898415">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>

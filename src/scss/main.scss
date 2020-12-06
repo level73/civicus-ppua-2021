@@ -20,6 +20,10 @@ h1, h2, h3, h4, h5, h6 {
 .t-lightgreen { color: $bg_Lightgreen;font-weight: bold; }
 .t-opengreen { color: $bg_Opengreen; font-weight: bold;}
 
+.pd {
+  margin-top: 15px;
+  margin-bottom: 15px;
+}
 
 main.container { background: white; padding-top: 30px;
   a, .btn-link {color: $repressed_orange; }

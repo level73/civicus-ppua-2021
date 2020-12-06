@@ -12,7 +12,7 @@
   <component name="ChangeListManager">
     <list default="true" id="6f6012d7-95df-4f4a-ba03-af888656c43f" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/europe-central-asia.html" beforeDir="false" afterPath="$PROJECT_DIR$/europe-central-asia.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/middle-east-north-africa.html" beforeDir="false" afterPath="$PROJECT_DIR$/middle-east-north-africa.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -102,14 +102,7 @@
       <workItem from="1606897420054" duration="14760000" />
       <workItem from="1606975640528" duration="7652000" />
       <workItem from="1607091857735" duration="22510000" />
-      <workItem from="1607268662205" duration="7572000" />
-    </task>
-    <task id="LOCAL-00006" summary="Font support">
-      <created>1606726872924</created>
-      <option name="number" value="00006" />
-      <option name="presentableId" value="LOCAL-00006" />
-      <option name="project" value="LOCAL" />
-      <updated>1606726872924</updated>
+      <workItem from="1607268662205" duration="8098000" />
     </task>
     <task id="LOCAL-00007" summary="Africa page, Backdrop and JS, tons of CSS">
       <created>1606824540610</created>
@@ -447,7 +440,14 @@
       <option name="project" value="LOCAL" />
       <updated>1607276308430</updated>
     </task>
-    <option name="localTasksCounter" value="55" />
+    <task id="LOCAL-00055" summary="Links in Europe page">
+      <created>1607277946231</created>
+      <option name="number" value="00055" />
+      <option name="presentableId" value="LOCAL-00055" />
+      <option name="project" value="LOCAL" />
+      <updated>1607277946232</updated>
+    </task>
+    <option name="localTasksCounter" value="56" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -466,7 +466,6 @@
     <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="changes to main internal layout" />
     <MESSAGE value="background image" />
     <MESSAGE value="africa report page" />
     <MESSAGE value="about page and other tweaks" />
@@ -491,7 +490,8 @@
     <MESSAGE value="Links in Africa page" />
     <MESSAGE value="Links in Americas page" />
     <MESSAGE value="Links in Asia/Pacific page" />
-    <option name="LAST_COMMIT_MESSAGE" value="Links in Asia/Pacific page" />
+    <MESSAGE value="Links in Europe page" />
+    <option name="LAST_COMMIT_MESSAGE" value="Links in Europe page" />
   </component>
   <component name="WindowStateProjectService">
     <state x="740" y="275" key="FileChooserDialogImpl" timestamp="1606680375265">
@@ -514,10 +514,10 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state width="1877" height="282" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1607274414077" />
-    <state x="552" y="253" key="Vcs.Push.Dialog.v2" timestamp="1607276315588">
+    <state x="552" y="253" key="Vcs.Push.Dialog.v2" timestamp="1607277948243">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="552" y="253" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1607276315588" />
+    <state x="552" y="253" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1607277948243" />
     <state x="777" y="434" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1606799898415">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>

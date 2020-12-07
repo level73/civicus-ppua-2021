@@ -44,7 +44,13 @@ main.container { background: white; padding-top: 30px;
   padding: 8px 0px;
   font-size: 1.2em;
 }
-
+#potbanger {
+  position: absolute;
+  width: 12.6875%;
+  bottom: 100%;
+  left: 76.3%;
+  z-index: 1001;
+}
 h1 { text-align: center; }
 p { font-family: 'Calibri', sans-serif; font-size: 1.2em; }
 .slice {

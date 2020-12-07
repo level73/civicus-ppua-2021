@@ -134,6 +134,14 @@ main.container a.btn {
   font-size: 1.2em;
 }
 
+#potbanger {
+  position: absolute;
+  width: 12.6875%;
+  bottom: 100%;
+  left: 76.3%;
+  z-index: 1001;
+}
+
 h1 {
   text-align: center;
 }

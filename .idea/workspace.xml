@@ -103,28 +103,8 @@
       <workItem from="1606975640528" duration="7652000" />
       <workItem from="1607091857735" duration="22510000" />
       <workItem from="1607268662205" duration="12768000" />
-      <workItem from="1607346697858" duration="4879000" />
-    </task>
-    <task id="LOCAL-00016" summary="map in africa">
-      <created>1606837211315</created>
-      <option name="number" value="00016" />
-      <option name="presentableId" value="LOCAL-00016" />
-      <option name="project" value="LOCAL" />
-      <updated>1606837211315</updated>
-    </task>
-    <task id="LOCAL-00017" summary="changes to main internal layout">
-      <created>1606853945490</created>
-      <option name="number" value="00017" />
-      <option name="presentableId" value="LOCAL-00017" />
-      <option name="project" value="LOCAL" />
-      <updated>1606853945490</updated>
-    </task>
-    <task id="LOCAL-00018" summary="background image">
-      <created>1606899561247</created>
-      <option name="number" value="00018" />
-      <option name="presentableId" value="LOCAL-00018" />
-      <option name="project" value="LOCAL" />
-      <updated>1606899561247</updated>
+      <workItem from="1607346697858" duration="6435000" />
+      <workItem from="1607362537810" duration="184000" />
     </task>
     <task id="LOCAL-00019" summary="background image">
       <created>1606899889856</created>
@@ -448,7 +428,28 @@
       <option name="project" value="LOCAL" />
       <updated>1607350497423</updated>
     </task>
-    <option name="localTasksCounter" value="65" />
+    <task id="LOCAL-00065" summary="images in downward spiral">
+      <created>1607354844104</created>
+      <option name="number" value="00065" />
+      <option name="presentableId" value="LOCAL-00065" />
+      <option name="project" value="LOCAL" />
+      <updated>1607354844105</updated>
+    </task>
+    <task id="LOCAL-00066" summary="target blank for pdf">
+      <created>1607355122604</created>
+      <option name="number" value="00066" />
+      <option name="presentableId" value="LOCAL-00066" />
+      <option name="project" value="LOCAL" />
+      <updated>1607355122604</updated>
+    </task>
+    <task id="LOCAL-00067" summary="downward spiral fix">
+      <created>1607362659351</created>
+      <option name="number" value="00067" />
+      <option name="presentableId" value="LOCAL-00067" />
+      <option name="project" value="LOCAL" />
+      <updated>1607362659351</updated>
+    </task>
+    <option name="localTasksCounter" value="68" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -467,9 +468,6 @@
     <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="MENA page, images" />
-    <MESSAGE value="Top Violation Graphics" />
-    <MESSAGE value="Hompegae responsive rollovers over animated gifs WAT" />
     <MESSAGE value="Fixed overlay of menu on absolutely positioned rollovers - Homepg" />
     <MESSAGE value="final HP fixes" />
     <MESSAGE value="map page" />
@@ -492,41 +490,44 @@
     <MESSAGE value="Pot Banger" />
     <MESSAGE value="PDF" />
     <MESSAGE value="make monitor circles smaller" />
-    <option name="LAST_COMMIT_MESSAGE" value="make monitor circles smaller" />
+    <MESSAGE value="images in downward spiral" />
+    <MESSAGE value="target blank for pdf" />
+    <MESSAGE value="downward spiral fix" />
+    <option name="LAST_COMMIT_MESSAGE" value="downward spiral fix" />
   </component>
   <component name="WindowStateProjectService">
     <state x="740" y="275" key="FileChooserDialogImpl" timestamp="1606680375265">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="740" y="275" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1606680375265" />
-    <state width="1877" height="282" key="GridCell.Tab.0.bottom" timestamp="1607348360762">
+    <state width="1877" height="282" key="GridCell.Tab.0.bottom" timestamp="1607359532071">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="282" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1607348360762" />
-    <state width="1877" height="282" key="GridCell.Tab.0.center" timestamp="1607348360762">
+    <state width="1877" height="282" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1607359532071" />
+    <state width="1877" height="282" key="GridCell.Tab.0.center" timestamp="1607359532070">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="282" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1607348360762" />
-    <state width="1877" height="282" key="GridCell.Tab.0.left" timestamp="1607348360761">
+    <state width="1877" height="282" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1607359532070" />
+    <state width="1877" height="282" key="GridCell.Tab.0.left" timestamp="1607359532070">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="282" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1607348360761" />
-    <state width="1877" height="282" key="GridCell.Tab.0.right" timestamp="1607348360762">
+    <state width="1877" height="282" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1607359532070" />
+    <state width="1877" height="282" key="GridCell.Tab.0.right" timestamp="1607359532070">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="282" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1607348360762" />
-    <state x="552" y="253" key="Vcs.Push.Dialog.v2" timestamp="1607350498818">
+    <state width="1877" height="282" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1607359532070" />
+    <state x="552" y="253" key="Vcs.Push.Dialog.v2" timestamp="1607362660944">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="552" y="253" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1607350498818" />
+    <state x="552" y="253" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1607362660944" />
     <state x="777" y="434" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1606799898415">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="777" y="434" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1920.1040@0.0.1920.1040" timestamp="1606799898415" />
-    <state x="661" y="76" width="656" height="888" key="find.popup" timestamp="1607350443460">
+    <state x="661" y="76" width="656" height="888" key="find.popup" timestamp="1607355093797">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="661" y="76" width="656" height="888" key="find.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1607350443460" />
+    <state x="661" y="76" width="656" height="888" key="find.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1607355093797" />
     <state x="616" y="240" width="672" height="677" key="run.anything.popup" timestamp="1607346865589">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>

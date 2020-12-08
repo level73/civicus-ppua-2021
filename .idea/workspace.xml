@@ -12,7 +12,21 @@
   <component name="ChangeListManager">
     <list default="true" id="6f6012d7-95df-4f4a-ba03-af888656c43f" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/about.html" beforeDir="false" afterPath="$PROJECT_DIR$/about.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/africa.html" beforeDir="false" afterPath="$PROJECT_DIR$/africa.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/americas.html" beforeDir="false" afterPath="$PROJECT_DIR$/americas.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/asia-pacific.html" beforeDir="false" afterPath="$PROJECT_DIR$/asia-pacific.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bright-spots.html" beforeDir="false" afterPath="$PROJECT_DIR$/bright-spots.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/downward-spiral.html" beforeDir="false" afterPath="$PROJECT_DIR$/downward-spiral.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/europe-central-asia.html" beforeDir="false" afterPath="$PROJECT_DIR$/europe-central-asia.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/map.html" beforeDir="false" afterPath="$PROJECT_DIR$/map.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/methodology.html" beforeDir="false" afterPath="$PROJECT_DIR$/methodology.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/middle-east-north-africa.html" beforeDir="false" afterPath="$PROJECT_DIR$/middle-east-north-africa.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/rating-changes.html" beforeDir="false" afterPath="$PROJECT_DIR$/rating-changes.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/recommendations.html" beforeDir="false" afterPath="$PROJECT_DIR$/recommendations.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/top-violations.html" beforeDir="false" afterPath="$PROJECT_DIR$/top-violations.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/uneven-crisis.html" beforeDir="false" afterPath="$PROJECT_DIR$/uneven-crisis.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -106,14 +120,7 @@
       <workItem from="1607346697858" duration="6435000" />
       <workItem from="1607362537810" duration="548000" />
       <workItem from="1607412421124" duration="671000" />
-      <workItem from="1607416425634" duration="121000" />
-    </task>
-    <task id="LOCAL-00022" summary="about page and other tweaks">
-      <created>1606923105160</created>
-      <option name="number" value="00022" />
-      <option name="presentableId" value="LOCAL-00022" />
-      <option name="project" value="LOCAL" />
-      <updated>1606923105160</updated>
+      <workItem from="1607416425634" duration="1371000" />
     </task>
     <task id="LOCAL-00023" summary="about page and other tweaks">
       <created>1606923128950</created>
@@ -451,7 +458,14 @@
       <option name="project" value="LOCAL" />
       <updated>1607412922261</updated>
     </task>
-    <option name="localTasksCounter" value="71" />
+    <task id="LOCAL-00071" summary="africa tweaks">
+      <created>1607416577129</created>
+      <option name="number" value="00071" />
+      <option name="presentableId" value="LOCAL-00071" />
+      <option name="project" value="LOCAL" />
+      <updated>1607416577129</updated>
+    </task>
+    <option name="localTasksCounter" value="72" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -470,7 +484,6 @@
     <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="final HP fixes" />
     <MESSAGE value="map page" />
     <MESSAGE value="added entry to menu for rating changes" />
     <MESSAGE value="link for prev reports" />
@@ -495,7 +508,8 @@
     <MESSAGE value="target blank for pdf" />
     <MESSAGE value="downward spiral fix" />
     <MESSAGE value="weird image crunching on iphones" />
-    <option name="LAST_COMMIT_MESSAGE" value="weird image crunching on iphones" />
+    <MESSAGE value="africa tweaks" />
+    <option name="LAST_COMMIT_MESSAGE" value="africa tweaks" />
   </component>
   <component name="WindowStateProjectService">
     <state x="740" y="275" key="FileChooserDialogImpl" timestamp="1606680375265">
@@ -518,18 +532,18 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state width="1877" height="282" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1607413112398" />
-    <state x="552" y="253" key="Vcs.Push.Dialog.v2" timestamp="1607412923764">
+    <state x="552" y="253" key="Vcs.Push.Dialog.v2" timestamp="1607416585006">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="552" y="253" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1607412923764" />
+    <state x="552" y="253" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1607416585006" />
     <state x="777" y="434" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1606799898415">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="777" y="434" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1920.1040@0.0.1920.1040" timestamp="1606799898415" />
-    <state x="661" y="76" width="656" height="888" key="find.popup" timestamp="1607355093797">
+    <state x="661" y="76" width="656" height="888" key="find.popup" timestamp="1607449392934">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="661" y="76" width="656" height="888" key="find.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1607355093797" />
+    <state x="661" y="76" width="656" height="888" key="find.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1607449392934" />
     <state x="616" y="240" width="672" height="677" key="run.anything.popup" timestamp="1607346865589">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>

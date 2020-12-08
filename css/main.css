@@ -153,14 +153,14 @@ p {
 
 .slice {
   position: relative;
+  align-items: flex-start;
+  /* new */
 }
 .slice img.sliced {
   display: block;
   width: 100%;
   min-width: 100%;
   height: auto;
-  max-height: 100%;
-  /** Adding this for Mac **/
 }
 .slice .map-link {
   display: block;

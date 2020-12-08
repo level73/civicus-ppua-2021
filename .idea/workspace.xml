@@ -11,7 +11,6 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="6f6012d7-95df-4f4a-ba03-af888656c43f" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/scss/main.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/scss/main.scss" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -105,14 +104,7 @@
       <workItem from="1607268662205" duration="12768000" />
       <workItem from="1607346697858" duration="6435000" />
       <workItem from="1607362537810" duration="548000" />
-      <workItem from="1607412421124" duration="54000" />
-    </task>
-    <task id="LOCAL-00020" summary="africa report page">
-      <created>1606900754039</created>
-      <option name="number" value="00020" />
-      <option name="presentableId" value="LOCAL-00020" />
-      <option name="project" value="LOCAL" />
-      <updated>1606900754039</updated>
+      <workItem from="1607412421124" duration="461000" />
     </task>
     <task id="LOCAL-00021" summary="africa report page">
       <created>1606921244510</created>
@@ -450,7 +442,14 @@
       <option name="project" value="LOCAL" />
       <updated>1607373001725</updated>
     </task>
-    <option name="localTasksCounter" value="69" />
+    <task id="LOCAL-00069" summary="weird image crunching on iphones">
+      <created>1607412532632</created>
+      <option name="number" value="00069" />
+      <option name="presentableId" value="LOCAL-00069" />
+      <option name="project" value="LOCAL" />
+      <updated>1607412532632</updated>
+    </task>
+    <option name="localTasksCounter" value="70" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -469,7 +468,6 @@
     <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Fixed overlay of menu on absolutely positioned rollovers - Homepg" />
     <MESSAGE value="final HP fixes" />
     <MESSAGE value="map page" />
     <MESSAGE value="added entry to menu for rating changes" />
@@ -494,7 +492,8 @@
     <MESSAGE value="images in downward spiral" />
     <MESSAGE value="target blank for pdf" />
     <MESSAGE value="downward spiral fix" />
-    <option name="LAST_COMMIT_MESSAGE" value="downward spiral fix" />
+    <MESSAGE value="weird image crunching on iphones" />
+    <option name="LAST_COMMIT_MESSAGE" value="weird image crunching on iphones" />
   </component>
   <component name="WindowStateProjectService">
     <state x="740" y="275" key="FileChooserDialogImpl" timestamp="1606680375265">
@@ -517,10 +516,10 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state width="1877" height="282" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1607359532070" />
-    <state x="552" y="253" key="Vcs.Push.Dialog.v2" timestamp="1607373003302">
+    <state x="552" y="253" key="Vcs.Push.Dialog.v2" timestamp="1607412533976">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="552" y="253" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1607373003302" />
+    <state x="552" y="253" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1607412533976" />
     <state x="777" y="434" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1606799898415">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>

@@ -60,7 +60,9 @@ p { font-family: 'Calibri', sans-serif; font-size: 1.2em; }
     width: 100%;
     min-width: 100%;
     height: auto;
+    max-height: 100%; /** Adding this for Mac **/
   }
+
   .map-link {
     display: block;
     left: 15%;

@@ -11,7 +11,6 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="6f6012d7-95df-4f4a-ba03-af888656c43f" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/es.html" beforeDir="false" afterPath="$PROJECT_DIR$/es.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/fr.html" beforeDir="false" afterPath="$PROJECT_DIR$/fr.html" afterDir="false" />
     </list>
@@ -113,14 +112,7 @@
       <workItem from="1612277687202" duration="6534000" />
       <workItem from="1612384015106" duration="8000" />
       <workItem from="1612429382974" duration="3228000" />
-      <workItem from="1612433105045" duration="316000" />
-    </task>
-    <task id="LOCAL-00031" summary="asia+pacific, europe, images, tweaks to africa and americas">
-      <created>1606983885921</created>
-      <option name="number" value="00031" />
-      <option name="presentableId" value="LOCAL-00031" />
-      <option name="project" value="LOCAL" />
-      <updated>1606983885922</updated>
+      <workItem from="1612433105045" duration="364000" />
     </task>
     <task id="LOCAL-00032" summary="MENA page, images">
       <created>1607007691759</created>
@@ -458,7 +450,14 @@
       <option name="project" value="LOCAL" />
       <updated>1612433213520</updated>
     </task>
-    <option name="localTasksCounter" value="80" />
+    <task id="LOCAL-00080" summary="padding-margin">
+      <created>1612433442544</created>
+      <option name="number" value="00080" />
+      <option name="presentableId" value="LOCAL-00080" />
+      <option name="project" value="LOCAL" />
+      <updated>1612433442545</updated>
+    </task>
+    <option name="localTasksCounter" value="81" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -477,7 +476,6 @@
     <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="tweaks" />
     <MESSAGE value="Bright Spots &amp; Pot Banger" />
     <MESSAGE value="Links in Africa page" />
     <MESSAGE value="Links in Americas page" />
@@ -502,6 +500,7 @@
     <MESSAGE value="Translated press releases - menu for french" />
     <MESSAGE value="Translated press releases - iamge in es" />
     <MESSAGE value="removed autoplay" />
-    <option name="LAST_COMMIT_MESSAGE" value="removed autoplay" />
+    <MESSAGE value="padding-margin" />
+    <option name="LAST_COMMIT_MESSAGE" value="padding-margin" />
   </component>
 </project>

@@ -129,7 +129,7 @@ main.container a.btn {
   padding-top: 31%;
 }
 
-#recommendations ul li, #rating-changes ul li {
+#recommendations ul li, #rating-changes ul li, #translated ul li {
   padding: 8px 0px;
   font-size: 1.2em;
 }
@@ -405,6 +405,27 @@ footer {
     text-align: center;
     margin: 30px auto 20px;
   }
+}
+.lang-modal {
+  position: absolute;
+  top: 15vh;
+  left: 30%;
+  padding: 60px 30px;
+  text-align: center;
+  background: rgba(0, 0, 0, 0.6);
+  min-width: 40%;
+  z-index: 9999;
+}
+.lang-modal .lang-modal-inner a {
+  display: block;
+  color: white;
+  background-color: #e6761e;
+  text-transform: uppercase;
+  font-family: "Novecento wide", Arial, sans-serif;
+  font-size: 1.6em;
+  margin: 24px auto;
+  clear: both;
+  padding: 10px 35px;
 }
 
 /*# sourceMappingURL=main.css.map */

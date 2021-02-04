@@ -40,10 +40,11 @@ main.container { background: white; padding-top: 30px;
   height: 0;
   padding-top: 31%;
 }
-#recommendations ul li, #rating-changes ul li {
+#recommendations ul li, #rating-changes ul li, #translated ul li {
   padding: 8px 0px;
   font-size: 1.2em;
 }
+
 #potbanger {
   position: absolute;
   width: 12.6875%;
@@ -265,9 +266,31 @@ footer { padding: 40px 0px 25px;  }
     background-color: white;
     height: 0;
     padding-top: calc(39.87% - 113px);
-
   }
 }
+
 @media (min-width: 992px) {
   h1 { font-size: 6em; text-align: center; margin: 30px auto 20px; }
+}
+
+.lang-modal {
+  position: absolute;
+  top: 15vh;
+  left: 30%; //calc(50% - 140px);
+  padding: 60px 30px;
+  text-align: center;
+  background: rgba(0,0,0,0.6);
+  min-width: 40%;
+  z-index: 9999;
+  .lang-modal-inner a {
+    display: block;
+    color: white;
+    background-color: $bg_Orange;
+    text-transform: uppercase;
+    font-family: 'Novecento wide', Arial, sans-serif;
+    font-size: 1.6em;
+    margin: 24px auto;
+    clear: both;
+    padding: 10px 35px;
+  }
 }

@@ -11,10 +11,27 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="6f6012d7-95df-4f4a-ba03-af888656c43f" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/es.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/fr.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/about.html" beforeDir="false" afterPath="$PROJECT_DIR$/about.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/africa.html" beforeDir="false" afterPath="$PROJECT_DIR$/africa.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/americas.html" beforeDir="false" afterPath="$PROJECT_DIR$/americas.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/asia-pacific.html" beforeDir="false" afterPath="$PROJECT_DIR$/asia-pacific.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bright-spots.html" beforeDir="false" afterPath="$PROJECT_DIR$/bright-spots.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/main.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/main.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/main.css.map" beforeDir="false" afterPath="$PROJECT_DIR$/css/main.css.map" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/downward-spiral.html" beforeDir="false" afterPath="$PROJECT_DIR$/downward-spiral.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/es.html" beforeDir="false" afterPath="$PROJECT_DIR$/es.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/europe-central-asia.html" beforeDir="false" afterPath="$PROJECT_DIR$/europe-central-asia.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/fr.html" beforeDir="false" afterPath="$PROJECT_DIR$/fr.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/map.html" beforeDir="false" afterPath="$PROJECT_DIR$/map.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/methodology.html" beforeDir="false" afterPath="$PROJECT_DIR$/methodology.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/middle-east-north-africa.html" beforeDir="false" afterPath="$PROJECT_DIR$/middle-east-north-africa.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/rating-changes.html" beforeDir="false" afterPath="$PROJECT_DIR$/rating-changes.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/recommendations.html" beforeDir="false" afterPath="$PROJECT_DIR$/recommendations.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/scss/main.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/scss/main.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/top-violations.html" beforeDir="false" afterPath="$PROJECT_DIR$/top-violations.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/uneven-crisis.html" beforeDir="false" afterPath="$PROJECT_DIR$/uneven-crisis.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -111,21 +128,9 @@
       <workItem from="1607416425634" duration="1496000" />
       <workItem from="1607578620925" duration="1409000" />
       <workItem from="1607581104919" duration="166000" />
-      <workItem from="1612277687202" duration="2907000" />
-    </task>
-    <task id="LOCAL-00025" summary="about page and other tweaks">
-      <created>1606923553504</created>
-      <option name="number" value="00025" />
-      <option name="presentableId" value="LOCAL-00025" />
-      <option name="project" value="LOCAL" />
-      <updated>1606923553504</updated>
-    </task>
-    <task id="LOCAL-00026" summary="about page and other tweaks">
-      <created>1606923582507</created>
-      <option name="number" value="00026" />
-      <option name="presentableId" value="LOCAL-00026" />
-      <option name="project" value="LOCAL" />
-      <updated>1606923582507</updated>
+      <workItem from="1612277687202" duration="6534000" />
+      <workItem from="1612384015106" duration="8000" />
+      <workItem from="1612429382974" duration="2077000" />
     </task>
     <task id="LOCAL-00027" summary="Top level pages">
       <created>1606926836771</created>
@@ -456,7 +461,21 @@
       <option name="project" value="LOCAL" />
       <updated>1607579978792</updated>
     </task>
-    <option name="localTasksCounter" value="74" />
+    <task id="LOCAL-00074" summary="es/fr pages">
+      <created>1612300616233</created>
+      <option name="number" value="00074" />
+      <option name="presentableId" value="LOCAL-00074" />
+      <option name="project" value="LOCAL" />
+      <updated>1612300616236</updated>
+    </task>
+    <task id="LOCAL-00075" summary="es/fr banners">
+      <created>1612300676084</created>
+      <option name="number" value="00075" />
+      <option name="presentableId" value="LOCAL-00075" />
+      <option name="project" value="LOCAL" />
+      <updated>1612300676084</updated>
+    </task>
+    <option name="localTasksCounter" value="76" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -475,8 +494,6 @@
     <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="added entry to menu for rating changes" />
-    <MESSAGE value="link for prev reports" />
     <MESSAGE value="All tweaks and changes flagged on Dec 4th" />
     <MESSAGE value="links in methodology" />
     <MESSAGE value="Rating changes page" />
@@ -500,44 +517,8 @@
     <MESSAGE value="weird image crunching on iphones" />
     <MESSAGE value="africa tweaks" />
     <MESSAGE value="dec 9 text changes" />
-    <option name="LAST_COMMIT_MESSAGE" value="dec 9 text changes" />
-  </component>
-  <component name="WindowStateProjectService">
-    <state x="740" y="275" key="FileChooserDialogImpl" timestamp="1606680375265">
-      <screen x="0" y="0" width="1920" height="1040" />
-    </state>
-    <state x="740" y="275" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1606680375265" />
-    <state width="1877" height="282" key="GridCell.Tab.0.bottom" timestamp="1607413112398">
-      <screen x="0" y="0" width="1920" height="1040" />
-    </state>
-    <state width="1877" height="282" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1607413112398" />
-    <state width="1877" height="282" key="GridCell.Tab.0.center" timestamp="1607413112398">
-      <screen x="0" y="0" width="1920" height="1040" />
-    </state>
-    <state width="1877" height="282" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1607413112398" />
-    <state width="1877" height="282" key="GridCell.Tab.0.left" timestamp="1607413112398">
-      <screen x="0" y="0" width="1920" height="1040" />
-    </state>
-    <state width="1877" height="282" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1607413112398" />
-    <state width="1877" height="282" key="GridCell.Tab.0.right" timestamp="1607413112398">
-      <screen x="0" y="0" width="1920" height="1040" />
-    </state>
-    <state width="1877" height="282" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1607413112398" />
-    <state x="552" y="253" key="Vcs.Push.Dialog.v2" timestamp="1607580001979">
-      <screen x="0" y="0" width="1920" height="1040" />
-    </state>
-    <state x="552" y="253" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1607580001979" />
-    <state x="777" y="434" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1606799898415">
-      <screen x="0" y="0" width="1920" height="1040" />
-    </state>
-    <state x="777" y="434" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1920.1040@0.0.1920.1040" timestamp="1606799898415" />
-    <state x="661" y="76" width="656" height="888" key="find.popup" timestamp="1607449392934">
-      <screen x="0" y="0" width="1920" height="1040" />
-    </state>
-    <state x="661" y="76" width="656" height="888" key="find.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1607449392934" />
-    <state x="616" y="240" width="672" height="677" key="run.anything.popup" timestamp="1607346865589">
-      <screen x="0" y="0" width="1920" height="1040" />
-    </state>
-    <state x="616" y="240" width="672" height="677" key="run.anything.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1607346865589" />
+    <MESSAGE value="es/fr pages" />
+    <MESSAGE value="es/fr banners" />
+    <option name="LAST_COMMIT_MESSAGE" value="es/fr banners" />
   </component>
 </project>

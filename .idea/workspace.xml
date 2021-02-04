@@ -12,8 +12,8 @@
   <component name="ChangeListManager">
     <list default="true" id="6f6012d7-95df-4f4a-ba03-af888656c43f" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/css/main.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/main.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/scss/main.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/scss/main.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/es.html" beforeDir="false" afterPath="$PROJECT_DIR$/es.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/fr.html" beforeDir="false" afterPath="$PROJECT_DIR$/fr.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -113,28 +113,8 @@
       <workItem from="1612277687202" duration="6534000" />
       <workItem from="1612384015106" duration="8000" />
       <workItem from="1612429382974" duration="3228000" />
-      <workItem from="1612433105045" duration="2387000" />
-    </task>
-    <task id="LOCAL-00034" summary="Hompegae responsive rollovers over animated gifs WAT">
-      <created>1607184315523</created>
-      <option name="number" value="00034" />
-      <option name="presentableId" value="LOCAL-00034" />
-      <option name="project" value="LOCAL" />
-      <updated>1607184315523</updated>
-    </task>
-    <task id="LOCAL-00035" summary="Fixed overlay of menu on absolutely positioned rollovers - Homepg">
-      <created>1607185861062</created>
-      <option name="number" value="00035" />
-      <option name="presentableId" value="LOCAL-00035" />
-      <option name="project" value="LOCAL" />
-      <updated>1607185861063</updated>
-    </task>
-    <task id="LOCAL-00036" summary="final HP fixes">
-      <created>1607187070304</created>
-      <option name="number" value="00036" />
-      <option name="presentableId" value="LOCAL-00036" />
-      <option name="project" value="LOCAL" />
-      <updated>1607187070305</updated>
+      <workItem from="1612433105045" duration="2807000" />
+      <workItem from="1612436236924" duration="1509000" />
     </task>
     <task id="LOCAL-00037" summary="map page">
       <created>1607187912200</created>
@@ -458,7 +438,28 @@
       <option name="project" value="LOCAL" />
       <updated>1612434890749</updated>
     </task>
-    <option name="localTasksCounter" value="83" />
+    <task id="LOCAL-00083" summary="changed lang box">
+      <created>1612435772892</created>
+      <option name="number" value="00083" />
+      <option name="presentableId" value="LOCAL-00083" />
+      <option name="project" value="LOCAL" />
+      <updated>1612435772893</updated>
+    </task>
+    <task id="LOCAL-00084" summary="text changes">
+      <created>1612436508354</created>
+      <option name="number" value="00084" />
+      <option name="presentableId" value="LOCAL-00084" />
+      <option name="project" value="LOCAL" />
+      <updated>1612436508354</updated>
+    </task>
+    <task id="LOCAL-00085" summary="text changes">
+      <created>1612437078806</created>
+      <option name="number" value="00085" />
+      <option name="presentableId" value="LOCAL-00085" />
+      <option name="project" value="LOCAL" />
+      <updated>1612437078807</updated>
+    </task>
+    <option name="localTasksCounter" value="86" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -477,8 +478,6 @@
     <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Links in Africa page" />
-    <MESSAGE value="Links in Americas page" />
     <MESSAGE value="Links in Asia/Pacific page" />
     <MESSAGE value="Links in Europe page" />
     <MESSAGE value="Links in MENA page" />
@@ -502,6 +501,8 @@
     <MESSAGE value="removed autoplay" />
     <MESSAGE value="padding-margin" />
     <MESSAGE value="tweaks to copy" />
-    <option name="LAST_COMMIT_MESSAGE" value="tweaks to copy" />
+    <MESSAGE value="changed lang box" />
+    <MESSAGE value="text changes" />
+    <option name="LAST_COMMIT_MESSAGE" value="text changes" />
   </component>
 </project>

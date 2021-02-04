@@ -12,26 +12,8 @@
   <component name="ChangeListManager">
     <list default="true" id="6f6012d7-95df-4f4a-ba03-af888656c43f" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/about.html" beforeDir="false" afterPath="$PROJECT_DIR$/about.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/africa.html" beforeDir="false" afterPath="$PROJECT_DIR$/africa.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/americas.html" beforeDir="false" afterPath="$PROJECT_DIR$/americas.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/asia-pacific.html" beforeDir="false" afterPath="$PROJECT_DIR$/asia-pacific.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bright-spots.html" beforeDir="false" afterPath="$PROJECT_DIR$/bright-spots.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/css/main.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/main.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/css/main.css.map" beforeDir="false" afterPath="$PROJECT_DIR$/css/main.css.map" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/downward-spiral.html" beforeDir="false" afterPath="$PROJECT_DIR$/downward-spiral.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/es.html" beforeDir="false" afterPath="$PROJECT_DIR$/es.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/europe-central-asia.html" beforeDir="false" afterPath="$PROJECT_DIR$/europe-central-asia.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/fr.html" beforeDir="false" afterPath="$PROJECT_DIR$/fr.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/map.html" beforeDir="false" afterPath="$PROJECT_DIR$/map.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/methodology.html" beforeDir="false" afterPath="$PROJECT_DIR$/methodology.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/middle-east-north-africa.html" beforeDir="false" afterPath="$PROJECT_DIR$/middle-east-north-africa.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/rating-changes.html" beforeDir="false" afterPath="$PROJECT_DIR$/rating-changes.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/recommendations.html" beforeDir="false" afterPath="$PROJECT_DIR$/recommendations.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/scss/main.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/scss/main.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/top-violations.html" beforeDir="false" afterPath="$PROJECT_DIR$/top-violations.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/uneven-crisis.html" beforeDir="false" afterPath="$PROJECT_DIR$/uneven-crisis.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -130,35 +112,8 @@
       <workItem from="1607581104919" duration="166000" />
       <workItem from="1612277687202" duration="6534000" />
       <workItem from="1612384015106" duration="8000" />
-      <workItem from="1612429382974" duration="2077000" />
-    </task>
-    <task id="LOCAL-00027" summary="Top level pages">
-      <created>1606926836771</created>
-      <option name="number" value="00027" />
-      <option name="presentableId" value="LOCAL-00027" />
-      <option name="project" value="LOCAL" />
-      <updated>1606926836771</updated>
-    </task>
-    <task id="LOCAL-00028" summary="backgrounds">
-      <created>1606927128211</created>
-      <option name="number" value="00028" />
-      <option name="presentableId" value="LOCAL-00028" />
-      <option name="project" value="LOCAL" />
-      <updated>1606927128211</updated>
-    </task>
-    <task id="LOCAL-00029" summary="backgrounds">
-      <created>1606928288996</created>
-      <option name="number" value="00029" />
-      <option name="presentableId" value="LOCAL-00029" />
-      <option name="project" value="LOCAL" />
-      <updated>1606928288996</updated>
-    </task>
-    <task id="LOCAL-00030" summary="Americas page, images in methodology &amp; downward Spiral, bulk img upload">
-      <created>1606944192699</created>
-      <option name="number" value="00030" />
-      <option name="presentableId" value="LOCAL-00030" />
-      <option name="project" value="LOCAL" />
-      <updated>1606944192700</updated>
+      <workItem from="1612429382974" duration="3228000" />
+      <workItem from="1612433105045" duration="316000" />
     </task>
     <task id="LOCAL-00031" summary="asia+pacific, europe, images, tweaks to africa and americas">
       <created>1606983885921</created>
@@ -475,7 +430,35 @@
       <option name="project" value="LOCAL" />
       <updated>1612300676084</updated>
     </task>
-    <option name="localTasksCounter" value="76" />
+    <task id="LOCAL-00076" summary="Translated press releases">
+      <created>1612431868828</created>
+      <option name="number" value="00076" />
+      <option name="presentableId" value="LOCAL-00076" />
+      <option name="project" value="LOCAL" />
+      <updated>1612431868829</updated>
+    </task>
+    <task id="LOCAL-00077" summary="Translated press releases - menu for french">
+      <created>1612432166316</created>
+      <option name="number" value="00077" />
+      <option name="presentableId" value="LOCAL-00077" />
+      <option name="project" value="LOCAL" />
+      <updated>1612432166318</updated>
+    </task>
+    <task id="LOCAL-00078" summary="Translated press releases - iamge in es">
+      <created>1612432356506</created>
+      <option name="number" value="00078" />
+      <option name="presentableId" value="LOCAL-00078" />
+      <option name="project" value="LOCAL" />
+      <updated>1612432356507</updated>
+    </task>
+    <task id="LOCAL-00079" summary="removed autoplay">
+      <created>1612433213520</created>
+      <option name="number" value="00079" />
+      <option name="presentableId" value="LOCAL-00079" />
+      <option name="project" value="LOCAL" />
+      <updated>1612433213520</updated>
+    </task>
+    <option name="localTasksCounter" value="80" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -494,10 +477,6 @@
     <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="All tweaks and changes flagged on Dec 4th" />
-    <MESSAGE value="links in methodology" />
-    <MESSAGE value="Rating changes page" />
-    <MESSAGE value="Links in all pages except for regional analysis" />
     <MESSAGE value="tweaks" />
     <MESSAGE value="Bright Spots &amp; Pot Banger" />
     <MESSAGE value="Links in Africa page" />
@@ -519,6 +498,10 @@
     <MESSAGE value="dec 9 text changes" />
     <MESSAGE value="es/fr pages" />
     <MESSAGE value="es/fr banners" />
-    <option name="LAST_COMMIT_MESSAGE" value="es/fr banners" />
+    <MESSAGE value="Translated press releases" />
+    <MESSAGE value="Translated press releases - menu for french" />
+    <MESSAGE value="Translated press releases - iamge in es" />
+    <MESSAGE value="removed autoplay" />
+    <option name="LAST_COMMIT_MESSAGE" value="removed autoplay" />
   </component>
 </project>

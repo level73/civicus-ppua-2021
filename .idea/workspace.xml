@@ -11,6 +11,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="6f6012d7-95df-4f4a-ba03-af888656c43f" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/es.html" beforeDir="false" afterPath="$PROJECT_DIR$/es.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/fr.html" beforeDir="false" afterPath="$PROJECT_DIR$/fr.html" afterDir="false" />
     </list>
@@ -112,14 +113,7 @@
       <workItem from="1612277687202" duration="6534000" />
       <workItem from="1612384015106" duration="8000" />
       <workItem from="1612429382974" duration="3228000" />
-      <workItem from="1612433105045" duration="364000" />
-    </task>
-    <task id="LOCAL-00032" summary="MENA page, images">
-      <created>1607007691759</created>
-      <option name="number" value="00032" />
-      <option name="presentableId" value="LOCAL-00032" />
-      <option name="project" value="LOCAL" />
-      <updated>1607007691761</updated>
+      <workItem from="1612433105045" duration="1618000" />
     </task>
     <task id="LOCAL-00033" summary="Top Violation Graphics">
       <created>1607008399368</created>
@@ -457,7 +451,14 @@
       <option name="project" value="LOCAL" />
       <updated>1612433442545</updated>
     </task>
-    <option name="localTasksCounter" value="81" />
+    <task id="LOCAL-00081" summary="padding-margin">
+      <created>1612433500629</created>
+      <option name="number" value="00081" />
+      <option name="presentableId" value="LOCAL-00081" />
+      <option name="project" value="LOCAL" />
+      <updated>1612433500629</updated>
+    </task>
+    <option name="localTasksCounter" value="82" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">

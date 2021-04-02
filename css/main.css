@@ -428,4 +428,13 @@ footer {
   padding: 10px 35px;
 }
 
+.rtl-text ul li, .rtl-text p {
+  text-align: right;
+  direction: rtl;
+}
+.rtl-text .offset-sm-4 {
+  margin-right: 33.33333%;
+  margin-left: auto !important;
+}
+
 /*# sourceMappingURL=main.css.map */

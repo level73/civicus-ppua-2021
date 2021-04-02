@@ -10,7 +10,30 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="6f6012d7-95df-4f4a-ba03-af888656c43f" name="Default Changelist" comment="" />
+    <list default="true" id="6f6012d7-95df-4f4a-ba03-af888656c43f" name="Default Changelist" comment="image update">
+      <change afterPath="$PROJECT_DIR$/ar.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/about.html" beforeDir="false" afterPath="$PROJECT_DIR$/about.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/africa.html" beforeDir="false" afterPath="$PROJECT_DIR$/africa.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/americas.html" beforeDir="false" afterPath="$PROJECT_DIR$/americas.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/asia-pacific.html" beforeDir="false" afterPath="$PROJECT_DIR$/asia-pacific.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bright-spots.html" beforeDir="false" afterPath="$PROJECT_DIR$/bright-spots.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/main.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/main.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/main.css.map" beforeDir="false" afterPath="$PROJECT_DIR$/css/main.css.map" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/downward-spiral.html" beforeDir="false" afterPath="$PROJECT_DIR$/downward-spiral.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/es.html" beforeDir="false" afterPath="$PROJECT_DIR$/es.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/europe-central-asia.html" beforeDir="false" afterPath="$PROJECT_DIR$/europe-central-asia.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/fr.html" beforeDir="false" afterPath="$PROJECT_DIR$/fr.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/map.html" beforeDir="false" afterPath="$PROJECT_DIR$/map.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/methodology.html" beforeDir="false" afterPath="$PROJECT_DIR$/methodology.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/middle-east-north-africa.html" beforeDir="false" afterPath="$PROJECT_DIR$/middle-east-north-africa.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/rating-changes.html" beforeDir="false" afterPath="$PROJECT_DIR$/rating-changes.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/recommendations.html" beforeDir="false" afterPath="$PROJECT_DIR$/recommendations.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/scss/main.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/scss/main.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/top-violations.html" beforeDir="false" afterPath="$PROJECT_DIR$/top-violations.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/uneven-crisis.html" beforeDir="false" afterPath="$PROJECT_DIR$/uneven-crisis.html" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -111,20 +134,10 @@
       <workItem from="1612429382974" duration="3228000" />
       <workItem from="1612433105045" duration="2807000" />
       <workItem from="1612436236924" duration="1544000" />
-    </task>
-    <task id="LOCAL-00038" summary="map page">
-      <created>1607192644605</created>
-      <option name="number" value="00038" />
-      <option name="presentableId" value="LOCAL-00038" />
-      <option name="project" value="LOCAL" />
-      <updated>1607192644606</updated>
-    </task>
-    <task id="LOCAL-00039" summary="added entry to menu for rating changes">
-      <created>1607192885912</created>
-      <option name="number" value="00039" />
-      <option name="presentableId" value="LOCAL-00039" />
-      <option name="project" value="LOCAL" />
-      <updated>1607192885912</updated>
+      <workItem from="1614235076304" duration="1121000" />
+      <workItem from="1617205466606" duration="733000" />
+      <workItem from="1617295021666" duration="60000" />
+      <workItem from="1617350198001" duration="2252000" />
     </task>
     <task id="LOCAL-00040" summary="link for prev reports">
       <created>1607192983607</created>
@@ -455,7 +468,21 @@
       <option name="project" value="LOCAL" />
       <updated>1612438231506</updated>
     </task>
-    <option name="localTasksCounter" value="87" />
+    <task id="LOCAL-00087" summary="image update">
+      <created>1614235232664</created>
+      <option name="number" value="00087" />
+      <option name="presentableId" value="LOCAL-00087" />
+      <option name="project" value="LOCAL" />
+      <updated>1614235232664</updated>
+    </task>
+    <task id="LOCAL-00088" summary="image update">
+      <created>1614235246561</created>
+      <option name="number" value="00088" />
+      <option name="presentableId" value="LOCAL-00088" />
+      <option name="project" value="LOCAL" />
+      <updated>1614235246561</updated>
+    </task>
+    <option name="localTasksCounter" value="89" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -474,7 +501,6 @@
     <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Links in Asia/Pacific page" />
     <MESSAGE value="Links in Europe page" />
     <MESSAGE value="Links in MENA page" />
     <MESSAGE value="dec 6 amends" />
@@ -499,6 +525,7 @@
     <MESSAGE value="tweaks to copy" />
     <MESSAGE value="changed lang box" />
     <MESSAGE value="text changes" />
-    <option name="LAST_COMMIT_MESSAGE" value="text changes" />
+    <MESSAGE value="image update" />
+    <option name="LAST_COMMIT_MESSAGE" value="image update" />
   </component>
 </project>

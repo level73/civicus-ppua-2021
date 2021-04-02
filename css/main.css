@@ -431,6 +431,7 @@ footer {
 .rtl-text ul li, .rtl-text p {
   text-align: right;
   direction: rtl;
+  font-size: 1.3em;
 }
 .rtl-text .offset-sm-4 {
   margin-right: 33.33333%;
